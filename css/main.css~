@@ -1,0 +1,14 @@
+div#wraper{
+    margin: 0 auto;
+}
+
+pre {
+    /**
+    color: green;
+    width: 255px;
+    background-color: #222222;
+    margin: 0 auto;
+    padding 1 0 0 4;
+    ***/
+
+}

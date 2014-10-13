@@ -13,11 +13,11 @@
   <body>
     <div id="wraper">
       <pre>
-      <div id="account">
-              github: clarinet758<br />
-              twitter: @clarinet758<br />
-              qiita: clarinet758<br />
-      </div>
+        <code>
+              github: clarinet758
+              twitter: @clarinet758
+              qiita: clarinet758
+        </code>
       </pre>
     </div>
   </body>
