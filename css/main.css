@@ -2,13 +2,18 @@
 
 html {
 }
-/** ribbon **/
+/** ribbon
+
+
+    background-color: #f4edd4;
+
+    width: 200px;
+ * **/
 .ribbon-article {
     overflow: hidden;
     position: relative;
-    width: 200px;
+    width: auto;
     height: 100px;
-    background-color: #f4edd4;
 }
 
 .side-corner-tag {
@@ -20,7 +25,7 @@ html {
     width: 100px;
     background-color:  #d32127;
     -moz-transform: rotate(45deg);
-    -webkit-transform:ratate(45deg);
+    -webkit-transform: rotate(45deg);
     -o-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.2), inset 0px 3px 20px rgba(255, 255 255, 0.2);
